@@ -1,4 +1,4 @@
-# TAKI-game
+# TAKI-game ![image](https://user-images.githubusercontent.com/118155017/226965195-0d064a24-15c7-41a9-9b8b-3f790c812368.png)
 
 <sub> This program is a Game called "Taki". It is written is C. </sub>
 
