@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/118155017/226965329-8cb67856-2429-48b0-b499-21fa6a14bbd5.png)
 
-<sub> This program is a Game called "Taki". It is written is C. </sub>
+<sub> This program is a Game called "Taki". It is written in C. </sub>
 
 <sub> This program was created as part of course in The Academic College of Tel Aviv-Yaffo. </sub>
 
