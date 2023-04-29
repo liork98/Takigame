@@ -2,8 +2,6 @@
 
 <sub> This program is a Game called "Taki". It is written in C. </sub>
 
-<sub> This program was created as part of course in The Academic College of Tel Aviv-Yaffo. </sub>
-
 Taki is a card game usually for 2 player or more (this program can be played also by one player).
 There are two types of cards: 
 * Numbers 1-9.
